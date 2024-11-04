@@ -6,8 +6,8 @@
 ## Term 1
 ### Etch-a-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
-![Running App]()
-[Source code]()
+![Running App](https://github.com/Sgandre3890/programmingportfolio2024a3/blob/main/images/Etch_a_sketch.png)
+[Source code](https://github.com/Sgandre3890/programmingportfolio2024a3/tree/main/src/term1/EtchASketch)
 ### Calculator
 [Source App](https://github.com/Sgandre3890/programmingportfolio2024a3/tree/main/src/term1/Calculator%202)
 ![Running App](https://github.com/Sgandre3890/programmingportfolio2024a3/blob/main/Clac_img.png)
