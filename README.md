@@ -8,11 +8,7 @@
 Graphics project with keypress drawing controls with the ability to save images.
 ![Running App]()
 [Source code]()
+### Calculator
+
 
 ## Term 2
-
-###Calculator
-
-Discription
-
-![Running App](
