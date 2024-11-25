@@ -14,3 +14,5 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 
 ## Term 2
+![Running App](https://github.com/Sgandre3890/programmingportfolio2024a3/blob/main/images/SpaceGame%20Graphic.png)
+[Source App](https://github.com/Sgandre3890/programmingportfolio2024a3/tree/main/src/term2/SpaceGame)
