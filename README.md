@@ -2,6 +2,8 @@
 * Projected graduation in 2027
 * Built a simple game with python/pygame
 * Enrolled in Graphic design
+* Certified in Graphics 1 and Programming 1
+* ![Certifications](file:///Users/9606164/Downloads/Sean%20Gandre_Computer%20Programming%20I_12162024.pdf)
 * ![Puppy picture](https://media.4-paws.org/f/3/9/1/f39115c5c798651f95141c37b692f76b669af761/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.webp)
 ## Term 1
 ### Etch-a-Sketch
