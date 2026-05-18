@@ -13,4 +13,5 @@
 
 ### 3D Modelviewer with OpenGL
 [Link to separate Repo](https://github.com/Sgandre3890/Atlys)
+![Running App](https://github.com/Sgandre3890/programming_portfolio/blob/main/images/3DModelLoaderExample.png)
 
